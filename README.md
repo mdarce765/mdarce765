@@ -2,10 +2,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  /> <a href="www.linkedin.com/in/murilo-darce-178282221">LinkedIn</a> <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  /> <a href="murilodarce45@gmail.com">murilodarce45@gmail.com</a>
-</div>
+[![linkedin](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/murilo-darce-178282221)
+[![gmail](https://img.icons8.com/?size=100&id=37246&format=png&color=000000)](mailto:murilodarce45@gmail.com)
 
 ###
 
@@ -32,7 +30,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="45" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="45" alt="cplusplus logo"  />
   <img width="15" />
