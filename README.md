@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/murilo-darce-borges-silva-178282221" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="www.linkedin.com/in/murilo-darce-borges-silva-178282221"  />
+  <a href="https://linkedin.com/in/murilo-darce-borges-silva-178282221" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="www.linkedin.com/in/murilo-darce-178282221"  />
   <a href="murilodarce45@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
 </div>
 
