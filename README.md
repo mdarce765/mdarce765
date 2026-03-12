@@ -2,13 +2,9 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/murilo-darce-178282221" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="murilodarce45@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
-  </a>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  /> <a href="www.linkedin.com/in/murilo-darce-178282221">LinkedIn</a> <br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  /> <a href="murilodarce45@gmail.com">murilodarce45@gmail.com</a>
 </div>
 
 ###
