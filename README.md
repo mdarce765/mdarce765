@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/murilo-darce-178282221" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="www.linkedin.com/in/murilo-darce-178282221"  />
-  <a href="murilodarce45@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/murilo-darce-178282221" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="murilodarce45@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
