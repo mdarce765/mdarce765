@@ -2,7 +2,7 @@
 
 ###
 
-[![linkedin](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/murilo-darce-178282221)
+[![linkedin](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](www.linkedin.com/in/murilodarcedev)
 [![gmail](https://img.icons8.com/?size=100&id=37246&format=png&color=000000)](mailto:murilodarce45@gmail.com)
 
 ###
